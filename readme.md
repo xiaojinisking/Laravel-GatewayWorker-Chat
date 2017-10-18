@@ -14,7 +14,7 @@ GatewayWorker提供非常方便的API，可以全局广播数据、可以向某�
 
 ## run
 
-git clone 
+git clone https://github.com/xiaojinisking/Laravel-GatewayWorker-Chat.git
 
 - 启动GatewayWorker
 
@@ -28,6 +28,7 @@ php start.php start -d
 
 ```php
 cd ../chat
+composer install
 php artisan serve
 ```
 
